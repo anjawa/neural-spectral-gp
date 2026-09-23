@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "This repository contains the code and experiments for the paper below. If you use it, please cite the paper (see preferred-citation)."
 title: "neural-spectral-gp"
+version: 1.0.0
 type: software
 authors:
   - family-names: Jawaid
