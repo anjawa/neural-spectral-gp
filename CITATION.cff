@@ -1,7 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata from this file."
+message: "This repository contains the code and experiments for the paper below. If you use it, please cite the paper (see preferred-citation)."
 title: "neural-spectral-gp"
-abstract: "Reference implementation of Neural Spectral Gaussian Processes: a hybrid framework combining neural networks with Regular Nonstationary Fourier Features for efficient simulation of nonstationary Gaussian processes."
 type: software
 authors:
   - family-names: Jawaid
@@ -11,7 +10,7 @@ authors:
     given-names: Abdullah
     orcid: https://orcid.org/0009-0000-2463-6351
   - family-names: Seewig
-    given-names: Joerg
+    given-names: Jörg
     orcid: https://orcid.org/0000-0002-1420-1597
 repository-code: "https://github.com/anjawa/neural-spectral-gp"
 url: "https://github.com/anjawa/neural-spectral-gp"
@@ -34,7 +33,9 @@ preferred-citation:
       given-names: Abdullah
       orcid: https://orcid.org/0009-0000-2463-6351
     - family-names: Seewig
-      given-names: Joerg
+      given-names: Jörg
       orcid: https://orcid.org/0000-0002-1420-1597
-  journal: "arXiv"
+  journal: "Transactions on Machine Learning Research"
+  issn: "2835-8856"
   year: 2026
+  url: "https://openreview.net/forum?id=2eZhxVDAhR"
